@@ -175,7 +175,7 @@ input {
   color: var(--green-deep);
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(48px, 6vw, 78px);
-  font-weight: 400;
+  font-weight: 700;
   letter-spacing: -0.055em;
   line-height: 0.99;
   margin: 0;
@@ -660,9 +660,9 @@ h2 em {
 
 .size-value {
   color: var(--green-deep);
-  font-family: Georgia, "Times New Roman", serif;
+  /* font-family: Georgia, "Times New Roman", serif; */
   font-size: 27px;
-  font-weight: 400;
+  font-weight: 600;
   margin-top: 5px;
 }
 
@@ -1291,11 +1291,12 @@ h2 em {
 
 .order-total strong {
   color: var(--green-deep);
-  font-family: Georgia, "Times New Roman", serif;
+  /* font-family: Georgia, "Times New Roman", serif; */
   font-size: 17px;
   font-weight: 400;
   margin-top: 7px;
 }
+
 
 .checkout-success {
   background: #f0f4e9;

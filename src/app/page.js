@@ -81,13 +81,13 @@ export default function Home() {
       <section aria-labelledby="hero-title" className="hero">
         <div className="hero-copy">
           
-          <h1 id="hero-title">
+          <h1 id="hero-title " className="hero-title font-bold">
 
            আপনার রাতের
             <br />
-            <em>যত্নে </em>   প্রাকৃতিক ছোঁয়া
+            যত্নে প্রাকৃতিক ছোঁয়া
           </h1>
-          <p className="hero-description">
+          <p className="hero-description ">
             আপনার নতুন শয়নকালীন অভ্যাসের সাথে পরিচিত হোন: ভেষজ উপাদানের সুচিন্তিত মিশ্রণে তৈরি ল্যাভেন্ডার-সুগন্ধি এক প্রশান্তিদায়ক ম্যাসাজ বাম।
           </p>
           <div className="hero-actions">
